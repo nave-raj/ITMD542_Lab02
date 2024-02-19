@@ -27,6 +27,7 @@ During the development of this project, I gained a better understanding of Node.
 One of the challenges I faced was ensuring proper validation and sanitization of user inputs to prevent security vulnerabilities.
 
 ## Results:
+In this lab I have successfully implemented all CRUD operations in the application and achieved persistence of contact data using a JSON file on the file system.Also I implemented basic error handling and validation for user inputs.
 
 ## Screenshot of Home Page
 <img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/843c6a77-2aa7-4374-bd82-64a955975800">
@@ -39,6 +40,18 @@ One of the challenges I faced was ensuring proper validation and sanitization of
 
 ## Screenshot of view single contact Page
 <img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/aed5587c-9368-4e25-85f0-0349a0cef46d">
+
+## Screenshot of Edit Contact Page
+<img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/a41f3a30-98e1-4b92-8261-38cbad404f4b">
+
+## Screenshot of Delete Contact Page
+<img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/8df058ee-6a09-4786-8ed9-391fb35304bd">
+
+## Screenshot of Input Validation
+<img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/34fbd796-d492-4eb0-9ede-0e9b3d927946">
+
+
+
 
 
 
