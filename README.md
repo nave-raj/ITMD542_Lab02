@@ -31,4 +31,16 @@ One of the challenges I faced was ensuring proper validation and sanitization of
 ## Screenshot of Home Page
 <img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/843c6a77-2aa7-4374-bd82-64a955975800">
 
+## Screenshot of all contact database Page
+<img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/7f5b5d4f-cc77-4af6-9e0b-7ce89efefb54">
+
+## Screenshot of create contact Page
+<img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/c0da5efc-b8cc-4edb-8aab-786fdc89a2dc">
+
+## Screenshot of view single contact Page
+<img width="1710" alt="image" src="https://github.com/nave-raj/ITMD542_Lab02/assets/129906985/aed5587c-9368-4e25-85f0-0349a0cef46d">
+
+
+
+
 
